@@ -56,5 +56,5 @@ Além disso, sua flexibilidade possibilita a integração com bancos de dados, A
 ## 📬 Contato e Contribuições  
 Quer contribuir ou sugerir melhorias? Fique à vontade para abrir uma **issue** ou um **pull request**.  
 📧 **E-mail:** contato@kasoss.com.br
-📢 **LinkedIn:** linkedin.com/in/seu-usuario 
+
 
